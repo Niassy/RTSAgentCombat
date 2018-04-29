@@ -1,4 +1,11 @@
 
+This the documentation for our Real time Strategy MicroManagement for Machine Learning.
+Work are in progress and currenly we have created a scenario in which there is agent who will try to kill a target.
+The goal of the learning process is to have an agent able performing Kiting Behaviour.
+An agent perfom=rm Kiting when he attack his target and flee to free position to avoid being hittec by his target. 
+
+Here are the informations for the scenario we have creates
+
 * Setup  :A platforming environment when the agent can attack or flee a target
 * Goal : The agent must kill the target
 * Agents: The environment contains one link linked to a single brain
