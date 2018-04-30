@@ -4,7 +4,7 @@ Work are in progress and currenly we have created a scenario in which there is a
 The goal of the learning process is to have an agent able performing Kiting Behaviour.
 An agent perfom=rm Kiting when he attack his target and flee to free position to avoid being hittec by his target. 
 
-Here are the informations for the scenario we have creates
+Here are the informations for the scenario we have created
 
 * Setup  :A platforming environment when the agent can attack or flee a target
 * Goal : The agent must kill the target
